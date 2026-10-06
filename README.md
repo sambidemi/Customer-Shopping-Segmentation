@@ -32,5 +32,3 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy.
 
 * Notebook
 * Dataset
-* Images used in README
-* Requirements file
